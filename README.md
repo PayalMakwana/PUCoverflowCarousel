@@ -6,7 +6,7 @@
 
 ### Purpose 
 
-PUCoverflowCarousel is a class designed to simplify the implementation of carousel (paged, scrolling views) on iPhone, iPad.No complex dependency addition needed for this library only single file add in your project and you are ready to use the library. Basically it is carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled. 
+PUCoverflowCarousel is a class designed to simplify the implementation of carousel (paged, scrolling views) on iPhone, iPad. No complex dependency addition needed for this library only single file add in your project and you are ready to use the library. Basically it is carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled. Example code also available. Local image as well server image you can use with smooth scrolling effect of cards. 
 
 ### Video Output
 
